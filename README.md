@@ -4,6 +4,8 @@ You can find Echo ore *ONLY* in the Deep Dark biome, including Ancient Cities.
 
 **It is recommended to use JEI with this mod as the recipe book does not have the recipes by default.**
 
+[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/echo-tier)
+
 ![All blocks and items](https://cdn.modrinth.com/data/IjmjwDce/images/813d0c99f6e91d70fd1088a4a4d76d35ba9b1473.png)
 
 ## Crafting recipes (If you dont use JEI):
