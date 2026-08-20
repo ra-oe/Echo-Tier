@@ -1,8 +1,14 @@
-## Adds more Echo armor, tools, and items, so the Echo shard isnt useless. 
+## Adds Echo armor, tools, and items so the Echo shard isn't useless
 
-You can find Echo ore *ONLY* in the Deep Dark biome, including Ancient Cities.
+## Features:
+- Echo Ore (You can find Echo ore *ONLY* in the Deep Dark biome, including Ancient Cities.)
+- Echo Tools
+- Echo Armor
+- Echo Upgrade 
+- Blocks, Echo Crate and Echo Block
+- All the gear has more durability and attack damage than netherite
 
-**It is recommended to use JEI with this mod as the recipe book does not have the recipes by default.**
+**It's recommended to use JEI with this mod as the recipe book does not have the recipes**
 
 [![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-1bd96a?logo=modrinth&logoColor=white)](https://modrinth.com/mod/echo-tier)
 
