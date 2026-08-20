@@ -8,7 +8,7 @@ You can find Echo ore *ONLY* in the Deep Dark biome, including Ancient Cities.
 
 ![All blocks and items](https://cdn.modrinth.com/data/IjmjwDce/images/813d0c99f6e91d70fd1088a4a4d76d35ba9b1473.png)
 
-## Crafting recipes (If you dont use JEI):
+## Crafting recipes (If you don't use JEI):
 Echo Ingot
 
 ![Echo Ingot recipe](https://cdn.modrinth.com/data/cached_images/7797fb9396e98428a9740eed040544a3d9fa6c24.png)
